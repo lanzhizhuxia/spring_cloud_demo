@@ -20,7 +20,7 @@
 	</dependencyManagement>
 
 	<groupId>spring.boot</groupId>
-	<artifactId>cloud-simple-helloword</artifactId>
+	<artifactId>00_redis</artifactId>
 	<version>0.0.1</version>
 	<packaging>jar</packaging>
 	<name>cloud-simple-helloword</name>
