@@ -20,7 +20,7 @@
 	</dependencyManagement>
 
 	<groupId>spring.boot</groupId>
-	<artifactId>spring-cloud-demo-xq</artifactId>
+	<artifactId>00_redis</artifactId>
 	<version>0.0.1</version>
 	<packaging>jar</packaging>
 	<name>00_redis</name>
