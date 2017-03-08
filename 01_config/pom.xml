@@ -20,10 +20,10 @@
 	</dependencyManagement>
 
 	<groupId>spring.boot</groupId>
-	<artifactId>01_config</artifactId>
+	<artifactId>01_config_server</artifactId>
 	<version>0.0.1</version>
 	<packaging>jar</packaging>
-	<name>01_config</name>
+	<name>01_config_server</name>
 
 	<repositories>
 		<repository>
